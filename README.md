@@ -12,5 +12,7 @@
 * Developed a head to head service for video casino games so players can play against each other on casino cabinet games.
 * Developed a licensing service for IGT which allows various games to be licensed on casino slot floors.
 * Developed a service which can communicate, via serial slot lines, to all the slots on the floor using a RTOS.
+* Developed an RGS for Spin Games which is used in real money online gaming (iGaming).
+
 
 
